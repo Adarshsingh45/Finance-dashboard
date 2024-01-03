@@ -1,4 +1,4 @@
-/*Data Copied from a github repo*/ 
+/*Data Copied from a github repository*/ 
 
 export const kpis = [
     {
