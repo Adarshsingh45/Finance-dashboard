@@ -6,6 +6,8 @@ import dotenv from "dotenv";
 import helmet from "helmet";
 import morgan from "morgan";
 
+/*CONFIGURATION */
+
 dotenv.config();
 const app = express();
 app.use(express.json());
